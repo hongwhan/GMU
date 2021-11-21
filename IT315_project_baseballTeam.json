@@ -1,0 +1,16 @@
+{
+"baseballTeam":
+[
+{"TeamName" : "KT","TeamNick" : "Wiz","TeamEST" : "2013", "TeamLocation" : "Suwon","TeamRecord2020" : "Rank #2 (81W 62L 1D)","TeamSite" : "https://www.ktwiz.co.kr/","TeamWins" : "No winning record","TeamLogoImage" : "ktwiz.png"},
+{"TeamName" : "LG","TeamNick" : "Twins","TeamEST" : "1982", "TeamLocation" : "Seoul","TeamRecord2020" : "Rank 4 (79W 61L 4D)","TeamSite" : "https://www.lgtwins.com/","TeamWins" : "1990, 1994","TeamLogoImage" : "lgtwins.png"},
+{"TeamName" : "Samsung","TeamNick" : "Lions","TeamEST" : "1982", "TeamLocation" : "Daegu","TeamRecord2020" : "Rank #8 (64W 75L 5D)","TeamSite" : "https://www.samsunglions.com/en/","TeamWins" : "1985, 2002, 2005, 2006, 2011, 2012, 2013, 2014","TeamLogoImage" : "samsunglions.png"},
+{"TeamName" : "Doosan","TeamNick" : "Bears","TeamEST" : "1982", "TeamLocation" : "Seoul","TeamRecord2020" : "Rank #3 (79W 61L 4D)","TeamSite" : "https://www.doosanbears.com/","TeamWins" : "1982, 1995, 2001, 2015, 2016, 2019","TeamLogoImage" : "doosanbears.png"},
+{"TeamName" : "NC","TeamNick" : "Dinos","TeamEST" : "2011", "TeamLocation" : "Changwon","TeamRecord2020" : "Rank #1 (83W 55L 6D)","TeamSite" : "https://www.ncdinos.com/","TeamWins" : "2020","TeamLogoImage" : "ncdinos.png"},
+{"TeamName" : "Kiwoom","TeamNick" : "Heroes","TeamEST" : "2008", "TeamLocation" : "Seoul","TeamRecord2020" : "Rank #5 (80W 63L 1D)","TeamSite" : "https://www.heroesbaseball.co.kr/eng/index.do","TeamWins" : "No winning record","TeamLogoImage" : "kiwoomheroes.png"},
+{"TeamName" : "SSG","TeamNick" : "Landers","TeamEST" : "2000", "TeamLocation" : "Incheon","TeamRecord2020" : "Rank #9 (51W 92L 1D)","TeamSite" : "http://www.ssglanders.com/main/","TeamWins" : "2007, 2008, 2010, 2018","TeamLogoImage" : "ssglanders.png"},
+{"TeamName" : "Lotte","TeamNick" : "Giants","TeamEST" : "1982", "TeamLocation" : "Busan","TeamRecord2020" : "Rank #7 (71W 72L 1D)","TeamSite" : "http://www.giantsclub.com/eng/","TeamWins" : "1984, 1992","TeamLogoImage" : "lottegiants.png"},
+{"TeamName" : "Kia","TeamNick" : "Tigers","TeamEST" : "1982", "TeamLocation" : "Gwangju","TeamRecord2020" : "Rank #6 (73W 71L 0D)","TeamSite" : "https://tigers.co.kr/","TeamWins" : "1983, 1986, 1987, 1988, 1989, 1991, 1993, 1996, 1997, 2009, 2017","TeamLogoImage" : "kiatigers.png"},
+{"TeamName" : "Hanwha","TeamNick" : "Eagles","TeamEST" : "1985", "TeamLocation" : "Daejeon","TeamRecord2020" : "Rank #10 (46W 95L 3D)","TeamSite" : "https://www.hanwha.com/en/products_and_services/affiliates/hanwha_eagles.leisure_and_lifestyle.html","TeamWins" : "1999","TeamLogoImage" : "hanwhaeagles.png"},
+],
+"Status":"OK"
+}
